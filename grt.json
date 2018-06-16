@@ -1,0 +1,12 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/stanislas/grt/releases/download/v0.1.1/grt_0.1.1_windows_amd64.tar.gz",
+            "bin": "skuld.exe"
+        }
+    },
+    "homepage": "https://github.com/DEEP-IMPACT-AG/skuld",
+    "license": "Apache 2.0",
+    "description": "CLI tool for AWS MFA credentials"
+}
