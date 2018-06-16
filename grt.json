@@ -1,9 +1,9 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/stanislas/grt/releases/download/v0.1.1/grt_0.1.1_windows_amd64.tar.gz",
-            "bin": "skuld.exe"
+            "url": "https://github.com/stanislas/grt/releases/download/v0.2.0/grt_0.2.0_windows_amd64.tar.gz",
+            "bin": "grt.exe"
         }
     },
     "homepage": "https://github.com/DEEP-IMPACT-AG/skuld",
