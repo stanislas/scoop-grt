@@ -1,8 +1,8 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/stanislas/grt/releases/download/v0.2.0/grt_0.2.0_windows_amd64.tar.gz",
+            "url": "https://github.com/stanislas/grt/releases/download/v0.2.5/grt_0.2.5_windows_amd64.tar.gz",
             "bin": "grt.exe"
         }
     },
